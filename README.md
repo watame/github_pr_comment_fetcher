@@ -1,0 +1,2 @@
+# github_pr_comment_fetcher
+自身のGitHubPRにつけられたコメントを取得するスクリプト
