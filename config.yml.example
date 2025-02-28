@@ -1,0 +1,4 @@
+github:
+  access_token: "your_github_access_token"
+  owner: "your_github_username"
+  repository: "your_repository_name" 
